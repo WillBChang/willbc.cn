@@ -1,6 +1,8 @@
+# Introduction
+
 ```bash
 ➜  ~ whoami 
-➜  ~ I’m Will B Chang. A **minimalist** and **life-long learner**.
+➜  ~ I’m Will B Chang. A minimalist and life-long learner.
 ➜  ~ pwd
 ➜  ~ China/Shanghai/
 ```
@@ -17,12 +19,12 @@ Check [Code](https://code.willbc.cn) for my programming projects.
 ## Music
 I'm a fan of [Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven), [Glenn Gould](https://en.wikipedia.org/wiki/Glenn_Gould), I enjoy playing piano and composing music.
 
-My life-time's dream is to become a composer and I'm tring. I believe I'll get a Ph.D of Music Composition in the future.
+My lifetime's dream is to become a composer and I'm tring. I believe I'll get a Ph.D of Music Composition in the future.
 
 Check [Music](https://music.willbc.cn) if you want to listen my music.
 
 ## Writing
-Novels are my favorite since childhood. I started writing(Chinese) poetry in 2010, also some prose and short stories. [Jean-Christophe](https://en.wikipedia.org/wiki/Jean-Christophe) influences me a lot, I have thoughts about writing a novel relative to it.
+Novels are my favorite since childhood. I started writing(Chinese) poetry in 2010, also prose and short stories. [Jean-Christophe](https://en.wikipedia.org/wiki/Jean-Christophe) influences me a lot, I have thoughts about writing a novel relative to it.
 
 Check [Book](https://book.willbc.cn) if you can read Chinese.
 
