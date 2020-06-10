@@ -29,6 +29,6 @@ Novels are my favorite since childhood. I started writing(Chinese) poetry in 201
 Check [Book](https://book.willbc.cn) if you can read Chinese.
 
 ## What else?
-I'm also interested in Psychology, mostly Psychoanalysis, Cognitive Psychology, and Developmental Psychology. I'd like to get a master degree of Psychology before 30-year-old(2026).
+I'm also interested in Psychology, mostly [Psychoanalysis](https://en.wikipedia.org/wiki/Psychoanalysis), [Cognitive Psychology](https://en.wikipedia.org/wiki/Cognitive_psychology), and [Developmental Psychology](https://en.wikipedia.org/wiki/Developmental_psychology). I'd like to get a master degree of Psychology before 30-year-old(2026).
 
 My favorite anime is [JoJo's Bizarre Adventure](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure), you should definitely check it. 
