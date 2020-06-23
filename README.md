@@ -2,7 +2,7 @@
 
 ```bash
 ➜  ~ whoami 
-➜  ~ I’m Will B Chang. A minimalist and life-long learner.
+➜  ~ Will B Chang. A minimalist and life-long learner.
 ➜  ~ pwd
 ➜  ~ China/Shanghai/
 ```
@@ -10,7 +10,11 @@
 ## Programming
 I enjoy programming with [Ruby](https://www.ruby-lang.org/en/) for writing scripts, [JavaScript](https://javascript.info/) for building browser extensions and websites, and I'm learning [Swift](https://developer.apple.com/swift/) for making iOS/MacOS apps.
 
-I mainly use [Alfred](https://www.alfredapp.com/) to improve the productivity, [RubyMine](https://www.jetbrains.com/ruby/) to write Ruby & JS project, [Vim](https://www.vim.org/) to edit text, and [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) as web browser.
+I mainly use
+- [Alfred](https://www.alfredapp.com/) to improve the productivity.
+- [IDEA](https://www.jetbrains.com/idea/) as IDE.
+- [VSCode](https://code.visualstudio.com/) as Text Editor.
+- [Chrome](https://www.google.com/chrome/) as Web Browser.
 
 I'm building softwares to fill my personal needs, speed up my workflow, and trying to make a living. 
 
