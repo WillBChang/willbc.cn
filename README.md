@@ -4,7 +4,7 @@
 ➜  ~ whoami 
 ➜  ~ Will B Chang. A minimalist and life-long learner.
 ➜  ~ pwd
-➜  ~ China/Shanghai/
+➜  ~ /China/Shanghai/
 ```
 
 ## Programming
@@ -13,7 +13,7 @@ I enjoy programming with [Ruby](https://www.ruby-lang.org/en/) for writing scrip
 I mainly use
 - [Alfred](https://www.alfredapp.com/) to improve the productivity.
 - [IDEA](https://www.jetbrains.com/idea/) as IDE.
-- [VSCode](https://code.visualstudio.com/) as Text Editor.
+- [Emacs](https://code.visualstudio.com/) as Text Editor.
 - [Chrome](https://www.google.com/chrome/) as Web Browser.
 
 I'm building softwares to fill my personal needs, speed up my workflow, and trying to make a living. 
