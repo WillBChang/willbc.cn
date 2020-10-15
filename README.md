@@ -8,11 +8,11 @@
 ```
 
 ## Programming
-I enjoy programming with [Ruby](https://www.ruby-lang.org/en/) for writing scripts, [JavaScript](https://javascript.info/) for building browser extensions and websites, and I'm learning [Swift](https://developer.apple.com/swift/) for making iOS/MacOS apps.
+I enjoy programming with [Ruby](https://www.ruby-lang.org/en/) for writing scripts and building web applications, [JavaScript](https://javascript.info/) for building browser extensions and websites, and I'm learning [Swift](https://developer.apple.com/swift/) to make iOS/MacOS apps.
 
 I mainly use
 - [Alfred](https://www.alfredapp.com/) to improve the productivity.
-- [IDEA](https://www.jetbrains.com/idea/) as IDE.
+- [RubyMine](https://www.jetbrains.com/ruby/) as IDE.
 - [Emacs](https://code.visualstudio.com/) as Text Editor.
 - [Chrome](https://www.google.com/chrome/) as Web Browser.
 
@@ -33,6 +33,6 @@ Novels are my favorite since childhood. I started writing(Chinese) poetry in 201
 Check [Book](https://book.willbc.cn) if you can read Chinese.
 
 ## What else?
-I'm also interested in Psychology, mostly [Psychoanalysis](https://en.wikipedia.org/wiki/Psychoanalysis), [Cognitive Psychology](https://en.wikipedia.org/wiki/Cognitive_psychology), and [Developmental Psychology](https://en.wikipedia.org/wiki/Developmental_psychology). I'd like to get a master degree of Psychology before 30-year-old(2026).
+I'm also interested in Psychology, mostly [Psychoanalysis](https://en.wikipedia.org/wiki/Psychoanalysis), [Cognitive Psychology](https://en.wikipedia.org/wiki/Cognitive_psychology), and [Developmental Psychology](https://en.wikipedia.org/wiki/Developmental_psychology). I'd like to get a master degree of Psychology.
 
 My favorite anime is [JoJo's Bizarre Adventure](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure), you should definitely check it. 
