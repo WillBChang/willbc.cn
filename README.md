@@ -6,6 +6,18 @@
 ➜  ~ pwd
 ➜  ~ /China/Shanghai/
 ```
+## Roadmap
+### Learning
+- [ ] [RoR Tutorial](https://learning.oreilly.com/library/view/ruby-on-rails/9780136702726/) @2020/11/1
+- [ ] [SwiftUI](https://developer.apple.com/documentation/swiftui/)  @2020/11/1
+- [ ] [CS193P](https://cs193p.sites.stanford.edu/) @2020/12/1
+- [ ] [javascript.info](https://javascript.info) @2020/11/1
+
+### Creating
+- Apple Music Player @2021/1/1
+- Keep Accounts App @2021/4/1
+- Todo App @2021/6/1
+- Read Later @2021/8/1
 
 ## Programming
 I enjoy programming with [Ruby](https://www.ruby-lang.org/en/) for writing scripts and building web applications, [JavaScript](https://javascript.info/) for building browser extensions and websites, and I'm learning [Swift](https://developer.apple.com/swift/) to make iOS/MacOS apps.
