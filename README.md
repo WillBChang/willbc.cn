@@ -8,13 +8,22 @@
 ```
 
 ## Programming
-I enjoy programming with [Ruby](https://www.ruby-lang.org/en/) for writing scripts and building web applications, [JavaScript](https://javascript.info/) for building browser extensions and websites, and I'm learning [Swift](https://developer.apple.com/swift/) to make iOS/MacOS apps.
+[![Will's github stats](https://github-readme-stats.vercel.app/api?username=willbchang&show_icons=true&disable_animations=true&include_all_commits=true&hide_title=true)](https://github.com/willbchang)
 
-I mainly use
-- [Alfred](https://www.alfredapp.com/) to improve the productivity.
-- [RubyMine](https://www.jetbrains.com/ruby/) as IDE.
-- [Emacs](https://code.visualstudio.com/) as Text Editor.
-- [Chrome](https://www.google.com/chrome/) as Web Browser.
+### OS & Apps
+<code><a href="https://www.apple.com/macos/"><img height="40" src="images/macos.png"></a></code>
+<code><a href="https://www.alfredapp.com/"><img height="40" src="images/alfred.png"></a></code>
+<code><a href="https://www.gnu.org/software/emacs/"><img height="40" src="images/emacs.png"></a></code>
+<code><a href="https://www.jetbrains.com/ruby/"><img height="40" src="images/rubymine.png"></a></code>
+<code><a href="https://developer.apple.com/xcode/"><img height="40" src="images/xcode.png"></a></code>
+
+### Languages & Frameworks
+Learning and using.
+<code><a href="https://www.ruby-lang.org/en/"><img height="35" src="images/ruby.png"></a></code>
+<code><a href="https://rubyonrails.org/"><img height="35" src="images/rails.png"></a></code>
+<code><a href="https://developer.apple.com/swift/"><img height="35" src="images/swift.png"></a></code>
+<code><a href="https://developer.apple.com/xcode/swiftui/"><img height="35" src="images/swiftui.png"></a></code>
+<code><a href="https://javascript.info/"><img height="35" src="images/javascript.png"></a></code>
 
 I'm building softwares to fill my personal needs, speed up my workflow, and trying to make a living. 
 
