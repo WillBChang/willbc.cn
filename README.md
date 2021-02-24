@@ -22,7 +22,7 @@
 <code><a href="https://nodejs.org/"><img height="35" src="images/nodejs.png"></a></code>
 <code><a href="https://jquery.com"><img height="35" src="images/jquery.png"></a></code>
 
-I build and use softwares to my daily life better. I learned programming on my own, although I got a bachelor degree.
+I build and use softwares to make my daily life better. I learned programming by myself, although I got a bachelor degree.
 
 [code.willbc.cn](https://code.willbc.cn) lists the things I created.
 
