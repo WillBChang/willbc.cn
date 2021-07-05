@@ -20,7 +20,7 @@
 <code><a href="https://nodejs.org/"><img height="35" src="images/nodejs.png"></a></code>
 <code><a href="https://jquery.com"><img height="35" src="images/jquery.png"></a></code>
 
-I build and use softwares to make my daily life better. I learned programming by myself, although I got a bachelor degree.
+I build and use softwares to make my daily life better, and may make yours too. I learned programming by myself, although I got a bachelor degree from correspondence course at Huazhong Agricultural University.
 
 [code.willbc.cn](https://code.willbc.cn) lists the things I created.
 
@@ -32,6 +32,8 @@ I build and use softwares to make my daily life better. I learned programming by
 I'm preparing the test for applying Master of Applied Psychology.
 
 ## Music
+<code><a href="https://musescore.org/"><img height="40" src="images/mscore.png"></a></code>
+
 [Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven) makes me fall in love with Classical Music. I'm also interested in Rock Music because of [JoJo's Bizarre Adventure](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure), you should definitely check it.
 
 My lifetime's dream is to become a composer. I'll get a Ph.D of Music Composition in the future.
